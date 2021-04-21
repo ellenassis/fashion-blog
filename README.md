@@ -1,2 +1,2 @@
-# Fashion-Project
+# Fashion Project
  Just a simple website
