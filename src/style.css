@@ -90,7 +90,7 @@ body {
     background-color: #003d52;
     padding: 100px;
     color: white;
-    background-image: url(../Projeto_Fashion/imagens/bg_detail.png);
+    background-image: url(./assets/bg_detail.png);
     background-repeat: no-repeat;
     background-position: right bottom;
 }
