@@ -1,2 +1,2 @@
 # Fashion Project
- Just a simple website
+ Just a simple fashion blog.
