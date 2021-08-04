@@ -1,2 +1,2 @@
-# Fashion Project
+# Fashion Blog
  Just a simple fashion blog.
